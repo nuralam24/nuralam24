@@ -4,7 +4,7 @@
 ### Competetive Programmer [Codeforces](https://codeforces.com/profile/nuralamcse024)  [Codechef](https://www.codechef.com/users/nur_raat) 
  
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuralam024) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/Nuralamcse)
+[![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Nuralamcse)
  
 My speciality is web apps full-stack development using JavaScript. Web Applications using technologies like Node.js, Express.js, Hapi.js, React.js, Redux, MongoDB & Microservices. 
 I've also experience in cloud service of Amazon (Aws Lambda)
