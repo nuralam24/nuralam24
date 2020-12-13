@@ -1,13 +1,13 @@
 <h1 align="Center">  Hi, I'm Nur Alam  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> </h1>
- 
+
+### Competitive Programmer -> [Codeforces](https://codeforces.com/profile/nuralamcse024)  [Codechef](https://www.codechef.com/users/nur_raat)
 ### Currently working as a Software Engineer at [Star IT Ltd](https://staritltd.com/)
-### Competitive Programmer -> [Codeforces](https://codeforces.com/profile/nuralamcse024)  [Codechef](https://www.codechef.com/users/nur_raat) 
  
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuralam024) 
 [![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Nuralamcse)
  
 My speciality is web apps full-stack development using JavaScript. Web Applications using technologies like Node.js, Express.js, Hapi.js, React.js, Redux & MongoDB. 
-I've also experience in Microservices & cloud service of Amazon (Aws Lambda).
+I've also experience in microservices architecture.
 
 
 ### Top Technologies
