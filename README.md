@@ -1,7 +1,7 @@
 <h1 align="Center">  Hi, I'm Nur Alam  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> </h1>
 <h2 align="Center">  I'm a Full-stack Software Developer and Javascript Enthusiast! </h2>
 
-I used to do online programming contests to improve my skills. <3>
+I used to do online programming contests to improve my skills.
 
 ### Competitive programming profile -> [CodeForces](https://codeforces.com/profile/nuralamcse024) , [StopStalk](https://www.stopstalk.com/user/profile/nur_alam)
 ### Currently working as a Javascript developer at [Star IT Ltd](https://staritltd.com/)
