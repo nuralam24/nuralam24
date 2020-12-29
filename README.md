@@ -1,7 +1,7 @@
 <h1 align="Center">  Hi, I'm Nur Alam  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> </h1>
 <h2 align="Center">  I'm a Full-stack Software Developer and Javascript Enthusiast! </h2>
 
-### Competitive Programmer -> [Codeforces](https://codeforces.com/profile/nuralamcse024)  [Codechef](https://www.codechef.com/users/nur_raat)
+### Passionate competitive programmer -> [Codeforces](https://codeforces.com/profile/nuralamcse024)  [Codechef](https://www.codechef.com/users/nur_raat)
 ### Currently working as a Javascript developer at [Star IT Ltd](https://staritltd.com/)
 <br />
 
