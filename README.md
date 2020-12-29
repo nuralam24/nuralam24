@@ -1,4 +1,5 @@
 <h1 align="Center">  Hi, I'm Nur Alam  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> </h1>
+
 ### I'm a Full-stack Software Developer and Javascript Enthusiast!
 
 ### Competitive Programmer -> [Codeforces](https://codeforces.com/profile/nuralamcse024)  [Codechef](https://www.codechef.com/users/nur_raat)
