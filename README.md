@@ -2,7 +2,7 @@
 <h2 align="Center">  I'm a Full-stack Software Developer and Javascript Enthusiast! </h2>
 
 ### Competitive Programmer -> [Codeforces](https://codeforces.com/profile/nuralamcse024)  [Codechef](https://www.codechef.com/users/nur_raat)
-### Currently working as a Software Engineer at [Star IT Ltd](https://staritltd.com/)
+### Currently working as a Javascript full stack developer at [Star IT Ltd](https://staritltd.com/)
 <br />
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuralam024) 
