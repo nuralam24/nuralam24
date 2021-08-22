@@ -7,7 +7,7 @@
 [![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Nuralamcse)
  
 <b>My speciality is web apps full-stack development using JavaScript. Web Applications using technologies like Node.js, Express.js, Hapi.js, React.js, Redux & MongoDB. 
-I've also experience in Cloud services.</b>
+I've also experienced with Cloud services.</b>
 
 
 ### Top Technologies
