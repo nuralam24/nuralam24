@@ -14,7 +14,7 @@
 * Cloud Service: Digital Ocean
 
 Currently working as a Backend Engineer. </b>
-</br> </br> If you want to reach me. Contact at: nuralamcse024@gmail.com
+</br>
 
 
 ### Top Technologies
