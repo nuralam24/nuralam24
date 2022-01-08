@@ -1,7 +1,6 @@
 <h1 align="Center">  Hi, I'm Nur Alam  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> </h1>
 
-#### Here is my competitive programming profile: 
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/nuralamcse024) , [StopStalk](https://www.stopstalk.com/user/profile/nur_alam)
+#### Here is my competitive programming profile: [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/nuralamcse024) , [StopStalk](https://www.stopstalk.com/user/profile/nur_alam)
 <br />
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuralam024) 
