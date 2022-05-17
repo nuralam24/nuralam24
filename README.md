@@ -6,9 +6,10 @@
 ### My stack:
 * Language: C, C++, Javascript (Node.js), Typescript
 * BackEnd Technology: Express.js, Hapi.js, Nest.js
-* FrontEnd Technology: React.js
+* FrontEnd Technology: React.js (basic)
 * DataBase: MongoDB & ODM library (Mongoose)
 * Cloud Service: Digital Ocean
+* Operating System: Windows, Linux(ubuntu)
 
 Currently working as a Backend Engineer. </b>
 </br>
