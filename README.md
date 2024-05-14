@@ -5,10 +5,10 @@
 <br /> 
 ### My stack:
 * Language: C, C++, Javascript (Node.js), Typescript
-* BackEnd Technology: Express.js, Hapi.js, Nest.js
+* BackEnd Technology: Nest.js, Express.js, Hapi.js
 * FrontEnd Technology: React.js (basic)
-* DataBase: MongoDB & ODM library (Mongoose)
-* Cloud Service: Digital Ocean
+* DataBase: MongoDB, MySQL, PostgreSQL
+* Cloud Service: Digital Ocean, AWS EC2
 * Operating System: Windows, Linux(ubuntu)
 
 Currently working as a Backend Engineer. </b>
