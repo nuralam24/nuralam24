@@ -3,13 +3,7 @@
 #### Here is my competitive programming profile: 
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/nuralamcse024) [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/nur_raat)
 <br /> 
-### My stack:
-* Language: C, C++, Javascript (Node.js), Typescript
-* BackEnd Technology: Nest.js, Express.js, Hapi.js
-* FrontEnd Technology: React.js (basic)
-* DataBase: MongoDB, MySQL, PostgreSQL
-* Cloud Service: Digital Ocean, AWS EC2
-* Operating System: Windows, Linux(ubuntu)
+*## 🛠️ Tech Stack ### **Languages** - JavaScript (ES6+), TypeScript, GoLang ### **Backend Frameworks** - Nest.js, Express.js (Node.js) - Gin (Go) ### **Databases** - PostgreSQL — Prisma, TypeORM - MongoDB — Mongoose - Redis — Caching, Queue, Pub/Sub, Rate-limiting ### **Architecture** - Microservices Architecture - Event-Driven Systems - REST APIs, WebSocket - Distributed Cache & Locking (Redis) ### **DevOps & Cloud** - Docker, Docker Compose - CI/CD (GitHub Actions / GitLab CI) - DigitalOcean, AWS (EC2, S3, RDS) - Linux (Ubuntu), macOS ---
 
 Currently working as a Backend Engineer. </b>
 </br>
