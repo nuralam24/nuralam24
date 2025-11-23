@@ -8,7 +8,8 @@
 
 ## 🛠️ Tech Stack
 **Languages:** JavaScript, TypeScript, Go  
-**Backend:** Nest.js, Express.js, Gin  
+**Backend:** Nest.js, Express.js, Gin
+**Frontend:** React.js (Working knowledge)
 **Database:** PostgreSQL, MongoDB, Redis  
 **Architecture:** Microservices, Event-driven, REST, WebSocket  
 **DevOps & Cloud:** Docker, CI/CD, AWS, DigitalOcean  
