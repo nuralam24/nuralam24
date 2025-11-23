@@ -7,34 +7,13 @@
 ---
 
 ## 🛠️ Tech Stack
+**Languages:** JavaScript, TypeScript, Go  
+**Backend:** Nest.js, Express.js, Gin  
+**Database:** PostgreSQL, MongoDB, Redis  
+**Architecture:** Microservices, Event-driven, REST, WebSocket  
+**DevOps & Cloud:** Docker, CI/CD, AWS, DigitalOcean  
 
-### **Languages**
-- JavaScript (ES6+), TypeScript, GoLang
-
-### **Backend Frameworks**
-- Nest.js, Express.js (Node.js)  
-- Gin (Go)
-
-### **Databases**
-- PostgreSQL — Prisma, TypeORM  
-- MongoDB — Mongoose  
-- Redis — Caching, Queue, Pub/Sub, Rate-limiting
-
-### **Architecture**
-- Microservices Architecture  
-- Event-Driven Systems  
-- REST APIs, WebSocket  
-- Distributed Cache & Locking (Redis)
-
-### **DevOps & Cloud**
-- Docker, Docker Compose  
-- CI/CD (GitHub Actions / GitLab CI)  
-- DigitalOcean, AWS (EC2, S3, RDS)  
-- Linux (Ubuntu), macOS
-
----
-
-Currently working as a **Backend Engineer**.
+Currently working as a **Sr. Backend Engineer**.
 
 ---
 
