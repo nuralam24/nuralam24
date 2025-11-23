@@ -25,7 +25,7 @@ Currently working as a Backend Engineer. </b>
   <img src="https://img.shields.io/badge/Redis-CC0000?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSIyNCIgd2lkdGg9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMTRjLTMuMzEgMC02LTIuNjktNi02cyI2LTYuMDkgNi02IDYgMi42OSA2IDYtMi42OSA2LTYgNnoiLz48L3N2Zz4=&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=azurepipelines&logoColor=white" />
 </p>
 
 
